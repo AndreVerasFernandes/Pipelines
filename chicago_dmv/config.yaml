@@ -1,0 +1,8 @@
+# Chicago Data file paths
+crash_filepath: data/traffic_crashes.csv
+vehicle_filepath: data/traffic_crash_vehicle.csv
+people_filepath: data/traffic_crash_people.csv
+
+crash_table_PSQL: chicago_dmv.crash
+vehicle_table_PSQL: chicago_dmv.vehicle
+person_table_PSQL: chicago_dmv.person
